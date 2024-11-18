@@ -1,5 +1,5 @@
 
-# Active Processes Viewer
+# Processes Viewer
 
 A simple C++ tool that lists the active processes running on a Windows machine. It provides real-time updates every 2 seconds, showing the executable name of each process.
 
